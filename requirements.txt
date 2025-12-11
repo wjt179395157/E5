@@ -1,0 +1,19 @@
+# requirements.txt
+streamlit==1.29.0
+pandas==2.1.4
+plotly==5.18.0
+
+# requirements.txt - 项目依赖
+
+# 核心依赖
+tabulate==0.9.0
+
+# 测试依赖
+pytest==7.4.0
+pytest-cov==4.1.0
+pytest-html==3.2.0
+
+# 代码质量工具
+flake8==6.1.0
+black==23.7.0
+pylint==2.17.5
